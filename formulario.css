@@ -11,8 +11,6 @@
     :root {
         --colorTextos: #49454567;
     }
-
-
     *,
     ::before,
     ::after {
@@ -21,7 +19,7 @@
         box-sizing: border-box;
     }
 
-    body {
+    body {https://stackblitz.com/edit/web-platform-cepbrf?file=page2.html
         font-family: 'Roboto';
         background: #4568DC;
         /* fallback for old browsers */
